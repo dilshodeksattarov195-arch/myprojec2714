@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterponnect",
+        "uuid": 21234336,
+        "checksum": "5dey8h"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
